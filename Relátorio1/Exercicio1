@@ -1,0 +1,5 @@
+") A função f(x) = 2.02x5 – 1.28x4 + 3.06x3 – 2.92x2 – 5.66x + 6.08, tem zeros reais. Plote
+um gráfico para verificar que existe raiz no intervalo [0,−2]. Utilize esse intervalo
+para encontrar a aproximação dessa raiz através dos Métodos da Bissecção, Falsa
+Posição e Secante, usando como critério de parada ε1 = ε2 = 10−2 ou no máximo três
+iterações. Qual é o método mais eficiente e por quê?"
