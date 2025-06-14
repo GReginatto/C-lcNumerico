@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
 def function (x):
   return x**3 - 9*x + 5
 
@@ -28,8 +31,6 @@ def bisection (a, b, precision):
   return x, intermediate_roots
 
 
-import matplotlib.pyplot as plt
-import numpy as np
 
 if bisection_points:
     x_pontos = bisection_points
