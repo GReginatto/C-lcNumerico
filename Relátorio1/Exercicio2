@@ -1,0 +1,13 @@
+Você está projetando um tanque esférico (veja a figura abaixo) para armazenar água
+para uma pequena cidade. 
+
+O volume de líquido que ele pode armazenar pode ser calculado por
+� = �ℎ! [3� − ℎ]
+3
+a) Calcule, utilizando um método que não recorre ao cálculo de derivadas, a
+profundidade h, num tanque de raio R = 1 para um volume V = 0.5. Utilize para
+aproximação inicial o intervalo [0.25,0.5] e considere ε1 = ε2 = 10−2 ou no máximo 3
+iterações.
+b) Repita os cálculos, nas condições mencionadas anteriormente, mas utilizando
+para aproximação inicial o intervalo [2.5,3]. Comente os resultados e analise a
+viabilidade da solução encontrada.
