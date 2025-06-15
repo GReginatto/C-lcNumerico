@@ -1,0 +1,8 @@
+) Em engenharia ambiental, a seguinte equação pode ser usada para calcular o nível
+de concentração de oxigênio num rio, em função da distância x, medida a partir do
+local de descarga de poluentes:
+c(x) = 10 − 20(e−0.2x− e−0.75x)
+Calcule, utilizando um método que recorre ao cálculo de derivadas, a distância para
+a qual o nível de oxigênio desce para o valor 5. Utilize para aproximação inicial o
+valor x1 = 1.0 e considere ε1 = ε2 = 10−2 ou no máximo 3 iterações. Utilize nos cálculos
+4 casas decimais.
